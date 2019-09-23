@@ -1,0 +1,13 @@
+.invalid-feedback {
+    color: red;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    text-align: center;
+}
+
+button {
+    margin-left: 10px;
+}
